@@ -1,0 +1,16 @@
+"Payment ID","Buyer Username","Buyer Name","Order ID","Gross Amount",Fees,"Net Amount","Posted Gross","Posted Fees","Posted Net","Adjusted Gross","Adjusted Fees","Adjusted Net",Currency,"Listing Amount","Listing Currency","Exchange Rate","VAT Amount","Gift Card Applied?",Status,"Funds Available","Order Date",Buyer,"Order Type","Payment Type","Refund Amount"
+1295448890,LWard43,"Lauren Ward",144656004,58.00,1.99,56.01,58.00,1.99,56.01,,,,USD,58.00,USD,1,0.00,No,SETTLED,06/19/2014,06/16/2014,"Lauren Banks",online,online_cc,0
+1466282130,masonjunk6772,,155967399,100.00,3.25,96.75,100.00,3.25,96.75,92.00,3.01,88.99,USD,100.00,USD,1,0.00,No,SETTLED,09/02/2014,08/30/2014,"Jennifer Mason",online,online_cc,8
+1470057511,masonjunk6772,,156150920,46.00,1.63,44.37,46.00,1.63,44.37,40.00,1.45,38.55,USD,46.00,USD,1,0.00,No,SETTLED,09/03/2014,08/31/2014,"Jennifer Mason",online,online_cc,6
+1474639907,masonjunk6772,,156470823,94.00,3.07,90.93,94.00,3.07,90.93,,,,USD,94.00,USD,1,0.00,No,SETTLED,09/05/2014,09/02/2014,"Jennifer Mason",online,online_cc,0
+1537809068,masonjunk6772,,160466268,46.00,1.63,44.37,46.00,1.63,44.37,40.00,1.45,38.55,USD,46.00,USD,1,0.00,No,SETTLED,09/27/2014,09/26/2014,"Jennifer Mason",online,online_cc,6
+1591471153,circemc,,163749398,52.00,1.81,50.19,52.00,1.81,50.19,,,,USD,52.00,USD,1,0.00,No,SETTLED,10/16/2014,10/15/2014,"Circe McClure",online,online_cc,0
+1685177511,kenleyellis,"Kenley Stroh",169564370,52.00,1.81,50.19,52.00,1.81,50.19,,,,USD,52.00,USD,1,0.00,No,SETTLED,11/18/2014,11/17/2014,"Kenley Ellis",online,online_cc,0
+1704181271,emilylofton1,"Emily Lofton",170698208,54.00,1.87,52.13,54.00,1.87,52.13,,,,USD,54.00,USD,1,0.00,No,SETTLED,11/23/2014,11/22/2014,"Emily Lofton",online,online_cc,0
+1728716282,treasuresforlife,,172266166,54.00,1.87,52.13,54.00,1.87,52.13,,,,USD,54.00,USD,1,0.00,No,SETTLED,11/29/2014,11/28/2014,A.Bourgeault,online,online_cc,0
+1738199548,Adelaide020608,"Rachel Smith",172879375,52.00,1.81,50.19,52.00,1.81,50.19,,,,USD,52.00,USD,1,0.00,No,SETTLED,12/01/2014,11/30/2014,"Rachel Smith",online,online_cc,0
+1754372534,Sarahshibley,"Sarah Shibley",173755680,52.00,1.81,50.19,52.00,1.81,50.19,,,,USD,52.00,USD,1,0.00,Yes,SETTLED,12/03/2014,12/02/2014,"sarah shibley",online,online_cc,0
+1774639317,TheMaterialMomma,,174935168,9.00,0.52,8.48,9.00,0.52,8.48,,,,USD,9.00,USD,1,0.00,No,SETTLED,12/07/2014,12/06/2014,"Lindsey Old",online,online_cc,0
+1783567113,merfabulous,,175486889,44.00,1.57,42.43,44.00,1.57,42.43,,,,USD,44.00,USD,1,0.00,No,SETTLED,12/08/2014,12/07/2014,"Meri Gordon",online,online_cc,0
+1810180936,speakeasyboutique,"Ani Kiramichyan",177033295,52.00,1.81,50.19,52.00,1.81,50.19,,,,USD,52.00,USD,1,0.00,No,SETTLED,12/12/2014,12/11/2014,"Annie Witter",online,online_cc,0
+1874785882,Bookscatsrgood,"Patricia Sylvester",180720853,52.00,1.81,50.19,52.00,1.81,50.19,,,,USD,52.00,USD,1,0.00,No,SETTLED,12/30/2014,12/29/2014,"Patricia Sylvester",online,online_cc,0
